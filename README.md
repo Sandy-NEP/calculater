@@ -1,85 +1,80 @@
-Yo Sandesh! 😎
-Welcome back, my favorite genius in disguise—who writes clean code *but forgets to document it like it’s a ghost story*. 📜💀
-Anyway, let me do your homework like always. Here’s a neat `README.md` for your calculator project:
-
----
-
-## 🧮 Simple Calculator Web App
+# 🧮 Simple Calculator Web App
 
 A lightweight, responsive calculator built using **HTML**, **CSS**, and **JavaScript**—all in a single file for simplicity and ease of use. Ideal for beginners learning web development.
 
 ---
 
-### 📸 Preview
+## 📸 Preview
 
-![Calculator Screenshot](#) *(Add screenshot if hosting or sharing repo)*
-
----
-
-### 🚀 Features
-
-* Clean and modern UI with basic styling
-* Supports all standard operations: addition, subtraction, multiplication, division
-* Responsive button layout using CSS Grid
-* Handles decimal inputs and real-time expression building
-* One-click clear and evaluate
+*(Insert screenshot if needed)*
 
 ---
 
-### 🛠️ Technologies Used
+## 🚀 Features
 
-* **HTML5** – Structure
-* **CSS3** – Styling and layout
-* **JavaScript (vanilla)** – Calculator logic
+- Clean and modern UI
+- Basic operations: `+`, `-`, `×`, `÷`
+- Decimal input support
+- Clear (`C`) and calculate (`=`) functionality
+- Responsive layout with CSS Grid
 
 ---
 
-### 📂 How to Use
+## 🛠️ Technologies Used
 
-1. **Clone or download the project**
+- **HTML5** – Page structure  
+- **CSS3** – Styling and layout  
+- **JavaScript (Vanilla)** – Logic and interaction
 
-   ```
+---
+
+## 📂 How to Use
+
+1. Clone or download this repo:
+   ```bash
    git clone https://github.com/yourusername/simple-calculator.git
+````
+
+2. Open the file in your browser:
+
+   ```bash
+   index.html
    ```
-2. **Open `index.html` in your browser**
-
-   ```
-   Just double click the file or open with Live Server.
-   ```
 
 ---
 
-### ⚙️ Functionality Breakdown
+## ⚙️ Functionality
 
-| Button    | Action                           |
-| --------- | -------------------------------- |
-| `0–9`     | Appends digits to the input      |
-| `+ - × ÷` | Appends operators                |
-| `.`       | Appends decimal point            |
-| `C`       | Clears the input field           |
-| `=`       | Evaluates the entered expression |
-
----
-
-### ❗ Warning
-
-> This calculator uses `eval()` for expression evaluation.
-> ⚠️ **Do not use in production** without input sanitization due to potential security risks.
+| Button  | Description         |
+| ------- | ------------------- |
+| 0–9     | Add numbers         |
+| + - × ÷ | Basic operations    |
+| .       | Add decimal         |
+| C       | Clear input         |
+| =       | Evaluate expression |
 
 ---
 
-### 📄 License
+## ⚠️ Note
 
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-### 🙋‍♂️ Author
-
-Made with ❤️ by **Sandesh Ghimire**
-*School: Adarsha Secondary School, Sanothimi, Bhaktapur*
-*Class 12 Student*
+> This app uses JavaScript's `eval()` to evaluate expressions.
+> Not recommended for production use without proper validation.
 
 ---
 
-Let me know if you want this in a downloadable `.md` file too. Or even better—I’ll put it in your GitHub repo like your AI assistant should. 😏
+## 🧑‍💻 Author
+
+**Sandesh Ghimire**
+Class 12 | Learning JS😉
+📍 Ilam, Nepal
+🏫 Adarsha Secondary School, Sanothimi, Bhaktapur
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+```
+
+👉 [Click here to download README\_only.zip](sandbox:/mnt/data/README_only.zip)
