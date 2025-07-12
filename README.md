@@ -17,14 +17,14 @@ Welcome to the **Simple Calculator Web App** – a sleek, responsive, and modern
 
 ## ✨ Features
 
-✅ **Modern & Clean UI** – Smooth and eye-friendly layout.
-➕ **Basic Operations** – Add, subtract, multiply, divide with ease.
-🔢 **Decimal Support** – Handle floating-point numbers like a pro.
-🧹 **Clear Button** – One click to reset the input.
-⬅️ **Backspace** – Fix mistakes with a single tap.
-⚡ **Instant Evaluation** – Hit `=` and get results instantly.
-📱 **Responsive Design** – Works perfectly on desktop, tablet, and mobile.
-⌨️ **Keyboard Friendly** – Use your keyboard to enter numbers and symbols.
+* ✅ **Modern & Clean UI** – Smooth and eye-friendly layout.
+* ➕ **Basic Operations** – Add, subtract, multiply, divide with ease.
+* 🔢 **Decimal Support** – Handle floating-point numbers like a pro.
+* 🧹 **Clear Button** – One click to reset the input.
+* ⬅️ **Backspace** – Fix mistakes with a single tap.
+*⚡ **Instant Evaluation** – Hit `=` and get results instantly.
+*📱 **Responsive Design** – Works perfectly on desktop, tablet, and mobile.
+* ⌨️ **Keyboard Friendly** – Use your keyboard to enter numbers and symbols.
 
 ---
 
