@@ -14,7 +14,8 @@ Welcome to the **Simple Calculator Web App** – a sleek, responsive, and modern
 
 | 🧑‍💻 Normal Version                                                     | 🎨 Modern Version                                                        |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| ![Normal UI Preview](../calculater/calculater.png) | ![Modern UI Preview](../calculater/calculator.png) |
+| ![Normal UI Preview](../calculater/calculater.png) | ![Modern UI Preview](../calculater/calculator.png) ![Preview](https://raw.githubusercontent.com/Sandy-NEP/calculater/main/calculater.png)
+|
 
 ---
 
