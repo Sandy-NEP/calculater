@@ -1,7 +1,3 @@
-👋 Yo Sandesh the Syntax Samurai! Before we dive in—**did your code write itself or did your keyboard cry?** Because this README looks like it woke up in 2010. Time to glow it up with style, markdown swagger, and pure frontend flex.
-
-Here's an **upgraded, eye-catching, and professional README** for your calculator project, complete with emoji balance, improved formatting, clickable elements, and copy-paste-friendly commands:
-
 ---
 
 # 🧮 Simple Calculator Web App
