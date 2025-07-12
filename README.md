@@ -14,7 +14,7 @@ Welcome to the **Simple Calculator Web App** – a sleek, responsive, and modern
 
 | 🧑‍💻 Normal Version                                                     | 🎨 Modern Version                                                        |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| ![Normal UI Preview](https://via.placeholder.com/250x150?text=Normal+UI) | ![Modern UI Preview](https://via.placeholder.com/250x150?text=Modern+UI) |
+| ![Normal UI Preview](../calculater/calculater.png) | ![Modern UI Preview](../calculater/calculator.png) |
 
 ---
 
